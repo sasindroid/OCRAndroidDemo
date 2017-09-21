@@ -1,4 +1,4 @@
-# OCRAndroidDemo
+# OCR Android Demo
 Android OCR demo with two approaches:
 1) Real-time detection (with overlaying digits only at the moment - code can be edited to detect strings).
 2) Share Intent option (camera/gallery) + Image cropping + Text detection.
